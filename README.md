@@ -10,6 +10,6 @@
 
 Deployed Website ![link](https://img.shields.io/badge/-Project%20-green)
 
-## [Link to the Project ](#link)
+## [Link to the Project ](https://beautiful-zabaione-a7b5c3.netlify.app/)
 
 ## It took about 40 minutes to complete the website (with help of previous project code).
