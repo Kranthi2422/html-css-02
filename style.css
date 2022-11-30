@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Red Rose';
+    /* font-family: 'Red Rose','Dela Gothic One'; */
+
+    
+  }
+
+  body{
+    background-image: url(./assets/imageedit_6_3725487482.png);
+    background-size:cover;
+    background-repeat:no-repeat;
+   
+  }
+
+  nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 1rem 4rem;
+  }
+
+  .list{
+    color:#FFC233;
+    display: flex;
+  gap:4rem;
+  font-weight: 600;
+  align-items: center;
+  font-size: 1.5rem;
+  
+  }
+
+  .button-small{
+color: #fff;
+background: #FF505F;
+padding: .5rem 2rem;
+border-radius: .5rem;
+border: none;
+  }
+
+
+  .hero{
+    position: relative;
+    /* display: flex;
+    flex-direction: column; */
+    text-align: center;
+  }
+
+  .hero-heading{
+    font-size: 5rem;
+  color: #FFC233;
+margin-top: 3rem;
+font-family: 'Dela Gothic One';
+}
+
+  .bottom{
+    position: absolute;
+    bottom: 5%;
+    right: 5%;
+  }
+
+  .button-large{
+    color: #fff;
+background: #FF505F;
+padding: .5rem 2rem;
+border-radius: .5rem;
+border: none;
+font-size: 1.3rem;
+margin-top: 1rem;
+  }
